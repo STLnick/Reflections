@@ -1,0 +1,7 @@
+1. A terminal is a GUI to access and perform tasks inside the Computer's file system. We want to use it for more control, precision and a better experience in some cases like installing and updating software.
+
+2. The protocol that powers the internet is HTTP, Hypertext Transfer Protocol. Sir Tim Berners Lee created this protocol in 1989.
+
+3. The Client is the person using the browser and they send Requests to the Server. The Server receives those requests and will send an appropriate response to the Client.
+
+4. GitHub acts as a central repo for most modules.
